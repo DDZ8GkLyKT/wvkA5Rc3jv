@@ -1,0 +1,3 @@
+Parsing node list
+Creating round-robin database
+Start logging data
