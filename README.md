@@ -5,4 +5,4 @@ The experiments are run on 36-200 c5d.4xlarge instances. The experimental result
 
 Setup instructions in testbed/readme.md
 
-![Net throughput plot](tpplot2.pdf)
+![Net throughput plot](tpplot2.pdf?raw=true)
