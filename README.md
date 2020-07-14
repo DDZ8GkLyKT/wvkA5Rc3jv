@@ -5,4 +5,8 @@ The experiments are run on 36-200 c5d.4xlarge instances. The experimental result
 
 Setup instructions in testbed/readme.md
 
-![Net throughput plot](https://github.com/DDZ8GkLyKT/wvkA5Rc3jv/blob/master/tpplot2.png)
+![Net throughput plot](tpplot2.png)
+
+![Compute/memory](sc1.png)
+
+![Compute components](compute_1k.png)
